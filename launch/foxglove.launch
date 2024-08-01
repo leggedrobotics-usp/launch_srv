@@ -1,0 +1,6 @@
+<launch>
+
+    <node pkg="foxglove_bridge" type="foxglove_bridge" name="foxglove_bridge" output="screen" />
+    <node pkg="launch_srv" type="launch_server.py" name="launch_server" output="screen" />
+
+</launch>

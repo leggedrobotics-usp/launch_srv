@@ -1,0 +1,7 @@
+string package_name
+string launch_file
+string parameters
+bool terminate
+---
+bool success
+string message
